@@ -5,25 +5,25 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: BoNinLab
+google_analytics: BoNinLab
+title: BoNinLab
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: BoNinLab
 
-description: Stylish Jekyll Theme
+description: BoNinLab
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  name: JongHun Won
+  email: boan1st@google.com
+  github: boninlab
+  twitter: None
+  pinterest: None
+  linkedin: None
   bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
